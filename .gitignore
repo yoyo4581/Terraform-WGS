@@ -1,0 +1,6 @@
+terraform.tfvars
+terraform.tfstate*
+.terraform.lock.hcl
+/lambda_functions/check_task_awsem_my-unicorn-wgs/
+/lambda_functions/run_task_awsem_my-unicorn-wgs/
+.terraform
